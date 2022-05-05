@@ -6,6 +6,10 @@
 
 O projeto é um site de compras realizado em grupo, utilizando a API do mercado livre, podendo buscar diversos produtos, adicionar no carrinho, um simulador de sistema de login, com uma página com detalhes do produto onde é possivel avaliar ou comentar e uma etapa final para conclusão de compra.
 
+### Link:
+
+https://online-store-project.vercel.app/
+
 ### Técnologias usadas:
 
 Front-end:
